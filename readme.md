@@ -1,6 +1,7 @@
 === Razorpay Subscription Opencart Payment Extension ===
+Initial Release
 Contributors: Razorpay
-Tags: Payment gateway, Donate button, UPI/credit/debit card, Payment plugin, India
+
 Tested up to: 3.0.3.8
 Stable tag: 1.0.0
 License: GPLv2 or later
